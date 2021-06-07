@@ -3,7 +3,7 @@ A simple note taking application
 
 ### Github : https://github.com/lamdoan825/note-taker
 
-### Deployed app : https://note-taker-lam.herokuapp.com/notes
+### Deployed app : https://note-taker-lam.herokuapp.com/
 
 
 ## Description
