@@ -25,6 +25,9 @@ An application to write and save note with Express.js back end and will save and
 
 
 ## Screenshots
+<img width="1440" alt="ss frontpage" src="https://user-images.githubusercontent.com/80074766/120948944-fccea900-c708-11eb-890d-0c0c00ced6c3.png">
+<img width="1440" alt="ss new" src="https://user-images.githubusercontent.com/80074766/120948964-06f0a780-c709-11eb-8c28-548a813663c7.png">
+<img width="1440" alt="ss notes" src="https://user-images.githubusercontent.com/80074766/120948976-0bb55b80-c709-11eb-9e1c-d35a91ae00a0.png">
 
 
 
