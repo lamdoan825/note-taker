@@ -5,7 +5,7 @@ const saveData = require('../db/saveData');
 
 router.get('/notes', (req, res) => {
   saveData
-    .getNotes()
+    .retrieveNotes()
     .then(notes => res.json(notes))
     .catch(err => res.status(500).json(err));
 });
@@ -19,7 +19,7 @@ router.post('/notes', (req, res) => {
 
 router.delete('/notes/:id', (req, res) => {
   saveData
-    .removeNote(req.params.id)
+    .deleteNote(req.params.id)
     .then((note) => res.json({ ok: true }))
     .catch(err => res.status(500).json(err));
 });
