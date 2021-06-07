@@ -4,7 +4,8 @@
   "description": "An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,6 @@
     "express": "^4.17.1",
     "inquirer": "^8.1.0",
     "uuid": "^8.3.2"
-  }
+  },
+  "devDependencies": {}
 }
